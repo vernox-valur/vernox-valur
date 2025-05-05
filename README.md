@@ -21,9 +21,7 @@ To internalize the idea that <b>"everything is connected"</b>—and act on it.</
 
 <h3>Currently Working On</h3>
 
-<p>
 - Creating meaning through action.<br>
 - Mastering skill acquisition and designing personal learning frameworks.<br>
 - Building a personal brand and portfolio.<br>
 - Developing small web and Python projects to sharpen thinking, momentum, and execution.
-</p>
